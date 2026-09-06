@@ -9,9 +9,7 @@
 
 ## Información del Estudiante
 * **Nombre:** Diego Panez
-* **Institución:** Tecsup
 * **Curso:** Desarrollo de Aplicaciones Web
-* **Sección:** C24
 
 ---
 
